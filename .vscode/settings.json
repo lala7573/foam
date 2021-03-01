@@ -14,8 +14,6 @@
     "**/node_modules": true
   },
   "foam.edit.linkReferenceDefinitions": "withExtensions",
-  "foam.openDailyNote.directory": "journal",
-  "foam.openDailyNote.titleFormat": "fullDate",
   "git.enableSmartCommit": true,
   "git.postCommitCommand": "sync",
   "markdown.preview.breaks": true,
@@ -26,4 +24,9 @@
   "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
   "vscodeMarkdownNotes.slugifyMethod": "github-slugger",
   "window.autoDetectColorScheme": true,
+
+  "foam.openDailyNote.directory": "journal",
+  "foam.openDailyNote.filenameFormat": "'Daily'-yyyy-mm-dd",
+  "foam.openDailyNote.fileExtension": "md",
+  "foam.openDailyNote.titleFormat": "yyyy.mm.dd ddd"
 }
