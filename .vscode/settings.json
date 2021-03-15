@@ -28,5 +28,6 @@
   "foam.openDailyNote.directory": "journal",
   "foam.openDailyNote.filenameFormat": "'Daily'-yyyy-mm-dd",
   "foam.openDailyNote.fileExtension": "md",
-  "foam.openDailyNote.titleFormat": "yyyy.mm.dd ddd"
+  "foam.openDailyNote.titleFormat": "yyyy.mm.dd ddd",
+  "gitdoc.enabled": false
 }
